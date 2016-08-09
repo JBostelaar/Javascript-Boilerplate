@@ -6,3 +6,4 @@
 * Babel
 * SVG Sprite
 * SCSS
+* ESLint
